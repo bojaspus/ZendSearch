@@ -1,4 +1,5 @@
 {
+    "minimum-stability": "dev",
     "name": "bojaspus/zendsearch",
     "description": "a general purpose text search engine written entirely in PHP 5",
     "type": "library",
@@ -21,6 +22,6 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-stdlib": "self.version"
+        "zendframework/zend-stdlib": "2.*"
     }
 }
