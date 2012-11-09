@@ -9,3 +9,5 @@ php composer.phar install
 
 At that point, follow the instructions in the documentation folder for actual
 usage of the component. (Documentation is forthcoming.)
+
+Forked and put on packagist.
